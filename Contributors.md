@@ -8,10 +8,7 @@ yumi-kim-0827
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - Dsparcade
-<<<<<<< Updated upstream
-=======
 <!-- hello www -->
->>>>>>> Stashed changes
 roshan ahamed iam the strong man inthe world
 -[Durgesh] (https://github.com/Durgeshityar/) OS here i come 🚶🏼‍♂️
 - [xbryan25](https://github.com/xbryan25) Hello world
@@ -128,6 +125,7 @@ roshan ahamed iam the strong man inthe world
 - [Geet S]
 - [Yoon Thiri Aung](https://github.com/yoon-thiri04)
 - [NDC]
+- [Zubayr Hassan] (https://github.com/ZHassan31) **Hello World!**
 - [Joel Burns]
 - [Suman Gaire] (https://github.com/sumangaire52)
 - [Bereket Sintayehu] (https://github.com/bereketsintayehu)
